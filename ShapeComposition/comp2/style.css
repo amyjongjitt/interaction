@@ -1,0 +1,44 @@
+.body {
+  margin: 0;
+  padding: 40px;
+  background-color: #blue;
+}
+
+p, a {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.outer {
+    width: 600px;
+    height: 600px;
+    background-color: magenta;
+    margin: 0 auto;
+  
+}
+
+div {
+    display: block;
+}
+
+.left {
+    background-color: red;
+    height: 600px;
+    width: 200px;
+    float: left;
+}
+
+.top {
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+
+.mid {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    float: left;
+}

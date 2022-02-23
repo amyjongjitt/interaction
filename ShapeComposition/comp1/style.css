@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 40px;
+  background-color: #eee;
+}
+
+p, a {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.outer {
+  width: 600px;
+  height: 600px;
+  background-color: lightpink;
+  margin: 0 auto;
+  font-size: 0;
+}
+
+.top {
+  background-color: orange;
+  height: 100px;
+}
+
+.column {
+  background-color: blue;
+  height: 300px;
+  width: 100px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.bottom {
+  background-color: lime;
+  height: 200px;
+  margin-top: 300px;
+}

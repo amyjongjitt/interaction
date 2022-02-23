@@ -1,0 +1,63 @@
+.body {
+  margin: 0;
+  padding: 40px;
+  background-color: #blue;
+}
+
+p, a {
+  text-align: center;
+  display: block;
+  margin-bottom: 20px;
+}
+
+
+.column {
+    background-color: maroon;
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    position: relative;
+}
+
+.right {
+    top: 200px;
+}
+
+.mid {
+    top: 100px;
+}
+
+div {
+    display: block;
+}
+
+.outer {
+    width: 600px;
+    height: 600px;
+    background-color: purple;
+    margin: 0 auto;
+    font-size: 0;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* How do I add an outer when there's already an outer
+thats the background color? The purple?
+
+margin is moving page instead of shape
+
+
+Why is my .right css appearing on the left?
+
+WIP crits?*/
