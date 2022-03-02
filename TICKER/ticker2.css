@@ -1,0 +1,36 @@
+<style>
+  .Marquee-box {
+     position: relative;
+     display: inline-block;
+     width: 667px;
+     height: 80px;
+  }
+  .MyMarquee {
+     text-align: center;
+     font-weight: bold;
+     width: 100%;
+     height: 100%;
+     font-size: 25px;
+     padding: 22px 0;
+     border: 1px solid #8C8C8C;
+     color: #73ff00;
+     font-family: Arial, Helvetica, sans-serif;
+     vertical-align: middle;
+     -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+             box-sizing: border-box;
+     background-color: #000000;
+
+  }
+  .MyMarquee div {
+     display: inline-block;
+     vertical-align: middle;
+  }
+  .MyMarquee a, .MyMarquee img {
+     display: inline-block;
+     text-decoration: underline;
+     color: #73ff00;
+     vertical-align: middle;
+  }
+
+</style>

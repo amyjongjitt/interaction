@@ -1,0 +1,17 @@
+
+
+.GeneratedMarquee {
+  font-family: 'Montserrat', sans-serif;
+  font-size:1.1em;
+  line-height:1.3em;
+  color:white;
+  background-color:none;
+  padding:1.5em;
+  align-content:flex-end;
+  position: fixed;
+  bottom: 0;
+}
+
+.materialgirl {
+  color:red;
+}
