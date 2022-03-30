@@ -1,0 +1,76 @@
+body {
+  background-image: url('../assets/SPRING\ COVER.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0;
+}
+
+.top-bar {
+    overflow: hidden;
+    background-color: black;
+    position: relative;
+    text-align: center;
+}
+
+.top-bar a {
+    font-family: Moderat-Black;
+    color: white;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+    font-size: 54px;
+    display: inline-block;
+}
+  
+.top-bar a:hover {
+    color: yellow;
+}
+
+.page-nav {
+    position: absolute;
+    top: 35%;
+    left: 4%
+}
+
+.page-nav a {
+    font-family: Moderat-Bold;
+    color: white;
+    text-align: left;
+    padding: 20px 0px;
+    font-size: 54px;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 3px solid white;
+    padding-bottom: 2px;
+}
+
+.page-nav a:hover {
+    color: yellow;
+    border-bottom: 3px solid yellow;
+}
+
+.footer-nav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 0px 0px 50px 0px;
+}
+
+.footer-nav a {
+    font-family: Moderat-Bold;
+    color: white;
+    padding: 20px 0px;
+    font-size: 32px;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 2px solid white;
+    padding-bottom: 2px;
+}
+
+.footer-nav a:hover {
+    color: yellow;
+    border-bottom: 2px solid yellow;
+}

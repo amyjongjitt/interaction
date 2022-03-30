@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+img {
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 450px;
+    padding: 70px 0px 20px 0px;
+    object-fit: contain;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    font-family: Moderat-Bold;
+    font-size: 28px;
+    text-align: center;
+}
+
+a {
+    font-family: Moderat-Bold;
+    font-size: 28px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    text-decoration: underline;
+}

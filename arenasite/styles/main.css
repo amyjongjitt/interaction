@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Moderat-Black;
+    src: url("../fonts/Moderat-Mono-Black.ttf");
+}
+
+@font-face {
+    font-family: Moderat-Bold;
+    src: url("../fonts/Moderat-Mono-Bold.ttf");
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Moderat-Black;
+    color: white;
+}
+
+h2 {
+    font-family: Moderat-Bold;
+    color: white;
+}
