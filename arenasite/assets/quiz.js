@@ -120,9 +120,9 @@ const questions = [
         question: '4. You’re in the middle of a cold winter night in NYC. It’s a blizzard outside but you NEED groceries. It’s also extremely likely for you to bump into your hot ex who lives a block away. What do you wear?',
         image: '../assets/QUESTION\ 4.jpeg',
         answers: [
-            { text: 'a: ABSOLUTELY NOT.', correct: true },
-            { text: 'b: I don’t mind it. Sounds nice in the summer!', correct: true },
-            { text: 'c: What’s there to hate about?', correct: true },
+            { text: 'a: No questions asked. I’m picking out my best outfit..', correct: true },
+            { text: 'b: My ex? Ew. Actually i’ll maybe just throw on something nice but not too much.. You know just in case..', correct: true },
+            { text: 'c: I honestly don’t have the time to impress anyone. I’m going to throw on 10 layers, stay cozy and mind my own business', correct: true },
         ]
     },
     {
